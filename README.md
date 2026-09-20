@@ -1,2 +1,2 @@
 # move-it
-A bootstarp heavy shipping website
+A simple website for shipping
