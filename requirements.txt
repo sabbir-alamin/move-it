@@ -1,0 +1,10 @@
+# This is a static HTML project — no Python packages required.
+# The entries below are only needed if you choose to serve locally with Python tools.
+
+# Optional: simple local dev server
+# Run with: python -m http.server 8000
+# (built into Python 3 — no install needed)
+
+# Optional: if you add a Flask backend later
+# flask>=3.0.0
+# python-dotenv>=1.0.0
