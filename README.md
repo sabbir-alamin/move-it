@@ -74,22 +74,6 @@ python -m http.server 8000
 **Option 3 — VS Code Live Server:**
 Install the [Live Server extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) and click "Go Live".
 
----
-
-## 🌍 Deployment
-
-### GitHub Pages
-1. Push this repo to GitHub
-2. Go to **Settings → Pages**
-3. Set source to `main` branch, `/ (root)`
-4. Your site will be live at `https://<your-username>.github.io/<repo-name>`
-
-### Netlify (drag & drop)
-1. Go to [netlify.com](https://netlify.com)
-2. Drag your project folder onto the deploy area
-3. Done — instant live URL
-
----
 
 ## 🙌 Acknowledgements
 
