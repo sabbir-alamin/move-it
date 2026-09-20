@@ -8,7 +8,7 @@ A clean, responsive landing page for **Move It**, a US-based moving services com
 
 ## 🌐 Live Demo
 
-> [Add your GitHub Pages / Netlify / Vercel link here]
+> [https://move-it-a-shipping-company.netlify.app]
 
 ---
 
